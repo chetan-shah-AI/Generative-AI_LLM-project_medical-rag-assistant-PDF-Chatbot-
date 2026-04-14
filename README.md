@@ -1,1 +1,1 @@
-# Generative-AI_LLM-project_medical-rag-assistant-PDF-Chatbot-
+# Generative-AI_LLM-project_medical-rag-assistant-PDF-Chatbot
