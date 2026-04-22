@@ -295,6 +295,7 @@ PDF → Chunking → Embeddings → Pinecone → Retriever → LLM → Response
 3. Vector Database
 4. RAG Pipeline
 5. UI/API Layer
+6. CI/CD Piepline
 
 ---
 
